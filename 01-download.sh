@@ -20,3 +20,5 @@ wget -O zips/dp5a.zip "https://archive.org/download/CommodoreAmigaApplicationsAD
 wget -O zips/dp5b.zip "https://archive.org/download/CommodoreAmigaApplicationsADF/Deluxe%20Paint%20V%20v5.2%20%281995%29%28Electronic%20Arts%29%28AGA%29%28Disk%203%20of%204%29%28Examples%29.zip"
 wget -O zips/dp5c.zip "https://archive.org/download/CommodoreAmigaApplicationsADF/Deluxe%20Paint%20V%20v5.2%20%281995%29%28Electronic%20Arts%29%28AGA%29%28Disk%204%20of%204%29%28Extras%29.zip"
 
+wget -O zips/brill.zip "https://archive.org/download/CommodoreAmigaApplicationsADF/Brilliance%20v1.0%20%281993-07-30%29%28Digital%20Creations%29%28Disk%203%20of%203%29%28Tutorial%29.zip"
+
